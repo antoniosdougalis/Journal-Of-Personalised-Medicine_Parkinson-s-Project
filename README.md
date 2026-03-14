@@ -21,6 +21,5 @@ The Script includes the main analytic calculations & visualisation of the classi
 
 please contact me for any issues with the code
 
-Dr. Antonios Dougalis
-antoniosdougalis@ gmail.com 
-antoniosdougalis@med.uoc.gr
+Dr. Antonios Dougalis,
+antoniosdougalis@gmail.com or antoniosdougalis@med.uoc.gr
