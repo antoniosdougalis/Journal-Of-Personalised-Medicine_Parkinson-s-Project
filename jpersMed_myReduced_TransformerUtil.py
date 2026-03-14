@@ -1,4 +1,8 @@
-#%% Multi head Attention Transformer for EEG Feature Classifiecation
+#%% Multi head Attention Transformer Arhitecture for EEG Feature Classification
+
+# Part of the Submitted Manuscript 
+# Dougalis Antonios 2026, Interpretable Electrophysiological Features of Resting-State EEG Reveal Distributed Cortical Signatures in Parkinson’s Disease,
+# Journal of Personalised Medicine;
 
 '''
 #%% Multi head Attention Transformer for EEG Feature Classifiecation
@@ -9,7 +13,6 @@ contact: antoniosdougalis (at) gmail.com
 '''
 
 # Import libraries
-
 import torch
 import torch.nn as nn
 import numpy as np
