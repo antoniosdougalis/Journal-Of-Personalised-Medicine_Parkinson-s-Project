@@ -3,7 +3,7 @@
 Multi-Head Attention-Transformer Architecture for EEG Feature classification: 
 Python based Deep Learning scripts for the Submitted Manuscript 
 
-Dougalis Antonios 2026, Interpretable Electrophysiological Features of Resting-State EEG Reveal Distributed Cortical Signatures in Parkinson’s Disease, 
+Antonios. G. Dougalis. 2026, Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinson’s Disease, 
 BiorXiv;
 
 also available as a pre print at BiorXiv at 
@@ -27,6 +27,11 @@ c. Data Filtering
 d. Implementation of Independent Component Analysis for Artifact removal
 e. Data packing and saving for further analysis
 
+4. Dougalis_2026_BiorXiv.pdf
+-Main Mnauscript includinf figures and Tables
+
+5. Dougalis_2026_BiorXiv_Supplementary_Materials.pdf
+-Supplementary Figures and Tables for the Manuscript
 
 please contact me for any issues with the code
 
