@@ -1,10 +1,10 @@
-# Journal-Of-Personalised-Medicine_Parkinsons-Project
+# Parkinsons_Deep_Learning EEG_Project
 
 Multi-Head Attention-Transformer Architecture for EEG Feature classification: 
 Python based Deep Learning scripts for the Submitted Manuscript 
 
 Dougalis Antonios 2026, Interpretable Electrophysiological Features of Resting-State EEG Reveal Distributed Cortical Signatures in Parkinson’s Disease, 
-Journal of Personalised Medicine;
+BiorXiv;
 
 also available as a pre print at BiorXiv at 
 
