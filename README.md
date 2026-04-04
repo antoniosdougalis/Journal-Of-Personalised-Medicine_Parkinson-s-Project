@@ -1,15 +1,11 @@
-# Parkinsons_Deep_Learning EEG_Project
+# Multi-Head Attention-Transformer Architecture for EEG Feature classification in Parkinson's Disease: 
 
-Multi-Head Attention-Transformer Architecture for EEG Feature classification: 
-Python based Deep Learning scripts for the Submitted Manuscript 
+Python-based pre-processing and Deep-Learning scripts for the submitted manuscript 
 
 Antonios. G. Dougalis. 2026, Interpretable Electrophysiological Features of Resting-State EEG Capture Cortical Network Dynamics in Parkinson’s Disease, 
 arXiv;
 
-also available as a pre print at arXiv at:
-
-https://arxiv.org/html/2604.01475v1 
-
+also available as a pre-print at arXiv at: https://arxiv.org/html/2604.01475v1 
 
 The files used to perform the Deep Learning Classification on the EEG extracted features are freely available for public use:
 
@@ -21,7 +17,7 @@ The files used to perform the Deep Learning Classification on the EEG extracted 
 The Script includes the main analytic calculations & visualisation of the classification procedure implemented in the manuscript.
 
 3. projParkin_import_AND_processData.py
--Main script that imports raw data and performs the Preprocessing pipelineimplemented for this mnauscript. After this procesdure the data are subjected to Analysis for feature extraction
+-Main script that imports raw data and performs the Preprocessing pipeline implemented for this manuscript. Following this procedure the data are subjected to Analysis for feature extraction
 Script executes
 a. Data importation
 b. Implementation of Common Average Reference (CAR)
