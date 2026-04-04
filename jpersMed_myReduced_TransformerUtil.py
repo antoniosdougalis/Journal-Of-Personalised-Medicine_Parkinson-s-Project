@@ -6,8 +6,8 @@
 '''
 #%% Multi head Attention Transformer for EEG Feature Classifiecation
 
-written by Antonios Dougalis, Feb 2026, Kuopio Finland
-contact: antoniosdougalis (at) gmail.com
+written by Antonios Dougalis, Feb 2026, Kozani Greece
+contact: antoniosdougalis (at) gmail.com; antoniosdougalis (at) med.uoc.gr 
 
 '''
 
