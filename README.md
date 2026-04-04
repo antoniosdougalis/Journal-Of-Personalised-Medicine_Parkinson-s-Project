@@ -33,10 +33,13 @@ e. Data packing and saving for further analysis
 Head montage and Laplacian function utilised in the comparative study in the Supplementary data
 
 5. Dougalis_2026_arXiv.pdf
--Main Mnauscript includind figures and Tables and Supplmentary material
+-Main Manuscript including Figures (6) and Tables (5) and Supplementary materials (3 Figures and one Table)
 
 
 please contact me for any issues with the code
 
-Dr. Antonios Dougalis,
-antoniosdougalis@gmail.com or antoniosdougalis@med.uoc.gr
+Dr. Antonios G. Dougalis  
+Institute of Applied and Computational Mathematics (IACM)  
+Foundation for Research and Technology – Hellas (FORTH), Greece  
+Email: antoniosdougalis@med.uoc.gr; antoniosdougalis@gmail.com  
+ORCID: https://orcid.org/0000-0002-2139-1616
