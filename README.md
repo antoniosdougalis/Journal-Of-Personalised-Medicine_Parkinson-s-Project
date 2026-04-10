@@ -35,7 +35,5 @@ Head montage and Laplacian function utilised in the comparative study in the Sup
 please contact me for any issues with the code
 
 Dr. Antonios G. Dougalis  
-Institute of Applied and Computational Mathematics (IACM)  
-Foundation for Research and Technology – Hellas (FORTH), Greece  
 Email: antoniosdougalis@med.uoc.gr; antoniosdougalis@gmail.com  
 ORCID: https://orcid.org/0000-0002-2139-1616
